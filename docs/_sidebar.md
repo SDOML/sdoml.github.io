@@ -2,4 +2,4 @@
 
 * [Home](/)
 * [Releases](releases.md)
-* [References](references.md)
+<!-- * [References](references.md) -->

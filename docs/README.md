@@ -18,7 +18,7 @@ Since its launch in 2010, NASA’s Solar Dynamics Observatory (SDO; (Pesnell et 
 ## The SDO ML Dataset
 The SDO ML Dataset (covering 2010 - 2018) was originally published as Galvez et al (2019), and is hosted on the Stanford Digital Repository in Numpy's compressed array format (`.npz`).
 
-In this notebook, we present an update to the work outlined in Galvez et al (2019), in which the full dataset has been converted to cloud friendly Zarr format. Specifically, SDO/AIA data has been updated to account for a change in calibration after 2019. In addtion to the change in calibration, this updated format includes:
+In version 2.0, we present an update to the work outlined in Galvez et al (2019), in which the full dataset has been converted to cloud friendly Zarr (`.zarr`) format. In addition, SDO/AIA data has been updated to account for a change in calibration after 2019. In addtion to the change in calibration, this updated format includes:
 
 1. FITS header/keyword information (such as observation time, and exposure time).
 2. Processes for continually updating the data until the present day.

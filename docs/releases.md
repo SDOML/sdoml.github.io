@@ -12,6 +12,10 @@ in the Zarr (`.zarr`) format. SDO/AIA data has been updated to account for a cha
 1. FITS header/keyword information (such as observation time, and exposure time).
 2. Processes for continually updating the data until the present day.
 
+
 ## Version 1.0
 
 The SDO ML Dataset (covering 2010 - 2018) was originally published as Galvez et al (2019), and is hosted on the Stanford Digital Repository in Numpy's compressed array format (`.npz`).
+
+> **Machine Learning Dataset Prepared From the NASA Solar Dynamics Observatory Mission** </br>
+    Richard Galvez, David F. Fouhey, Meng Jin, Alexandre Szenicer, Andrés Muñoz-Jaramillo, Mark C. M. Cheung, Paul J. Wright, Monica G. Bobra, Yang Liu, James Mason, Rajat Thomas [Astrophysical Journal Supplement Series, 2019](https://iopscience.iop.org/article/10.3847/1538-4365/ab1005)
