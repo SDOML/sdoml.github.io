@@ -2,8 +2,7 @@
 
 *A curated data set from the NASA Solar Dynamics Observatory (SDO) mission in a format suitable for machine-learning research.*
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spaceml-org/helionb-sdoml/blob/main/notebooks/01_sdoml_dataset_2018/sdoml_dataset_colab.ipynb)
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spaceml-org/helionb-sdoml/blob/main/notebooks/01_sdoml_dataset_2018/sdoml_dataset_colab_aws.ipynb)
 
 ## SDO Overview
 Since its launch in 2010, NASA’s Solar Dynamics Observatory (SDO; (Pesnell et al. 2012) has continuously monitored Sun's activity, delivering a wealth of valuable scientific data for heliophysics researchers with the use of three instruments:
